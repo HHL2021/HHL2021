@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HHL2021
-- 👀 I’m interested in 
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning C and python
 - 📫 How to reach me: llji2907@gmail.com
